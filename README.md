@@ -9,9 +9,8 @@
 <img algin="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samueleleli&theme=dracula" />
 </p>
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samueleleli&theme=dracula&langs_count=10" />
-<!-- <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samueleleli&theme=dracula" /> -->
 <p align=right>
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=samueleleli&repo=FIFA_WorldCup_Analysis" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoFerretti98&repo=Project_Chatbot_Recipe_adviser&theme=dracula" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoFerretti98&repo=Project_NetworkX_Twitch&theme=dracula" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoFerretti98&repo=Project_Chatbot_Recipe_adviser" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoFerretti98&repo=Project_NetworkX_Twitch" />
 </p>
