@@ -20,4 +20,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=samueleleli&repo=FIFA_WorldCup_Analysis" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoFerretti98&repo=Project_Chatbot_Recipe_adviser&theme=dracula" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username==MatteoFerretti98&repo=Project_NetworkX_Twitch&theme=dracula" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MatteoFerretti98&repo=Project_NetworkX_Twitch&theme=dracula" />
